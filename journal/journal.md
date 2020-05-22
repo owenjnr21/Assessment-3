@@ -147,6 +147,10 @@ There will likely by a dozen or so images of the project under construction. The
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
+## Project Video ##
+
+
+
 
 ## Design process discussion ##
 *At the beginning of this project, there was brainstorming down to get an idea for a project that can interact with people and also salve a problem. After the brainstorming, I decided to go with the idea exercise. I saw this as an opportunity to going into as people are now out and running to exercise or are training outside in the backyard. In doing so my idea was to create a wristband that sprays water out when the temperature raises to a high hot temperature, however during the design process, I was not able to get a water pump for this project. In doing so I improvised and used a motor to splash water onto a person but the only problem was it would be too big to fit on a wrist, therefore I created one that can is placed on the desk inside of a home and when ever its hot inside, it splashes water. This can be further improved if I get a water pump and can replace the motor with the pump and be eassily built to a wrist band spray.*
