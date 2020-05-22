@@ -90,9 +90,25 @@
 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+### Concepts ###
+
+### Concept 1 ###
+*First concept was to use the microbit to create a timer that times your exercise and it also displays codes/numbers that represent a workout activity.* 
+![Image](321.JPG)
+
+### Concept 2 ###
+*Using a motor with a propeller as a windmill, it can measure the windspeed. In doing so the microbit and determine a workout routine with the windspeed reading from the windmill.* 
+![Image](321.JPG)
+
+### Concept 3 ###
+*My concept is to create a wristband that has a temperature sensor and whenever its hot it beeps to alert you then shoots out water like a mini water gun to drink or spray your face. Numbers will be used to display the temperature and LED lights on the microbit will display a straign line for it to shoot or lights are spaced out to show it spraying, so that there are two options to choose from.* 
+![Image](321.JPG)
+
 
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+*My final concept was to create a temperature sensor that splashes water. I was not able to get a water pump, in doing so I used a motor with a propeller to splash water when there is a raise in temperature or its hot.*
+![Image](321.JPG)
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
