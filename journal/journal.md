@@ -149,6 +149,7 @@ There will likely by a dozen or so images of the project under construction. The
 
 ## Project Video ##
 
+https://github.com/owenjnr21/Assessment-3/blob/master/journal/projectvideo.mp4
 
 
 ## Design process discussion ##
