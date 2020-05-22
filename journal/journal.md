@@ -113,7 +113,7 @@
 *My final concept was to create a temperature sensor that splashes water. I was not able to get a water pump, in doing so I used a motor with a propeller to splash water when there is a raise in temperature or its hot.*
 ![Image](1finalconcept.JPG)
 
-![Image](Finalproject.JPG)
+![Image](Finalproject.jpg)
 
 
 
