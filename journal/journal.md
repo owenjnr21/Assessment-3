@@ -119,7 +119,6 @@
 ![Image](missingimage.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
 ![Image](tempmicrobit.jpg)
 
@@ -128,6 +127,10 @@
 ![Image](motorboard.jpg)
 
 ![Image](tempmotorboard.jpg)
+
+*The images above show the process of how I created my final project. I started of testing small projects and built from that up. When doing your small projects it helped me to understand a mircobit, how it can be used, how it can be coded and used on a circuit board. With the help of those projects was was able to take ideas from and code and build my final project.*
+
+<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
 This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
 
@@ -142,10 +145,12 @@ There will likely by a dozen or so images of the project under construction. The
 
 
 ## Design process discussion ##
+*At the beginning of this project, there was brainstorming down to get an idea for a project that can interact with people and also salve a problem. After the brainstorming, I decided to go with the idea exercise. I saw this as an opportunity to going into as people are now out and running to exercise or are training outside in the backyard. In doing so my idea was to create a wristband that sprays water out when the temperature raises to a high hot temperature, however during the design process, I was not able to get a water pump for this project. In doing so I improvised and used a motor to splash water onto a person but the only problem was it would be too big to fit on a wrist, therefore I created one that can is placed on the desk inside of a home and when ever its hot inside, it splashes water. This can be further improved if I get a water pump and can replace the motor with the pump and be eassily built to a wrist band spray.*
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
 
 ## Reflection ##
+*The most important thing I have found was the coding and designs of the related projects as it helped me to get the final outcome of the project. They helped me understand the code and also pointed me in the direction of my design. Also the wiring of the microbit was interesting as it was a bit confusing. One thing I would improve is replacing the motor with a water pump to create the water spray and it would also help to design the wristband easily. Through this project, everything has been new to me as it was my first time coding a microbit and wiring it. The coding part was the most interesting thing to me as I Did not know you could do a lot with code when coding a microbit. Coding the temperature sensor and motor to the microbit was also new to me as I thought that we could code one thing at a time on a microbit. An extension of this project would be make it into a wristband with a water pump for people wear and exercise, it can be made into a wristband or maybe into strap that you can wear on your torso like a vest. Or maybe something out of this world where, when are you bored doing work and try to fall asleep, the microbit will sense that and spray water in your face to wake you up. Maybe using the microbit to measure your pulse and tell if youre active or falling asleep but maybe something along those lines.*
 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
