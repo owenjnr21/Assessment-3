@@ -10,13 +10,73 @@
 ### *Natural Disaster Sensor* ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+![Image](Natural-disaster-sensor.JPG)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+[Natural Disaster Sensor](https://core-electronics.com.au/tutorials/natural-disaster-sensor-project-for-the-microbit-stem.html)
 
 <!--- Include information about why this project is related to yours. --->
+*This project is similar to mine as to it uses a sensor and motor. Also the type of design is similar to what I have created for my project.*
+<!--- Repeat code above for a total of 6 related projects --->
 
+### *Automatic Car Air Freshener* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](123.JPG)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Automatic Car Air Freshener](https://www.pakwheels.com/forums/t/automatic-car-air-freshener/208305)
+
+<!--- Include information about why this project is related to yours. --->
+*I would say the concept of this is related to my project as it uses a motor drive and fan to function the air freshener where as mine will be splashing water.*
+<!--- Repeat code above for a total of 6 related projects --->
+
+### *Temperature Sensor - Microbit* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](temperature-sensor.JPG)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Temperature Sensor Microbit](https://makecode.microbit.org/reference/input/temperature)
+
+<!--- Include information about why this project is related to yours. --->
+*This project is related to mine as I used the code from this to code my temperature sensor for my water spray.*
+<!--- Repeat code above for a total of 6 related projects --->
+
+### *Temperature Gauge* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](gauge.JPG)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Temperature Gauge](https://www.youtube.com/watch?v=Hi3Km1PV45M)
+
+<!--- Include information about why this project is related to yours. --->
+*The concept of this is similar to mine where there is a gauge is driven by  microbit and used to detect temperature. as the temperature goes up the gauge rotates and that similar to mine, however a motor/pump will be used to spray or splash water onces at a certain high temperature.*
+<!--- Repeat code above for a total of 6 related projects --->
+
+### *Drive Motor - Kitroniks Book* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](drive-motor.JPG)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Drive Motor](https://www.kitronik.co.uk/blog/experiment-4-using-a-transistor-to-drive-a-motor/)
+
+<!--- Include information about why this project is related to yours. --->
+*For this I have used the code from this to power up my motor. The code in this tells the motor to switch on to full power after a few seconds and then switches off then repeats the process again. However I altered the coded from that to start the motor when it reaches a high temperature.*
+<!--- Repeat code above for a total of 6 related projects --->
+
+### *Automatic Watering System* ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](321.JPG)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Automatic Watering System](https://www.youtube.com/watch?v=SGvCaV3lIfw)
+
+<!--- Include information about why this project is related to yours. --->
+*This is related to my project, as my intended idea was to use a water pump to spray water. With this project it pumps out water when the soil is not wet, whereas mine will do something similar to that but with raise in temperature, the water pump will spay water.*
 <!--- Repeat code above for a total of 6 related projects --->
 
 ## Other research ##
