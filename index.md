@@ -11,7 +11,9 @@
 The image should be inserted with code like that below where you replace the filename to exactly match what you uploaded. This will only work reliably if your filename has no spaces or unusual characters in it. The image must be in .jpg, .gif, .png format. Files of .heic or .heif type will not show up. Note that .png is different to .PNG in a filename here. The names are case sensitive.
 --->
 
-![Image](missingimage.png)
+![Image](tempmotorboard.jpg)
+
+*My project was to create a temperature sensor spray that people could use when exercising outdoor, the intial idea was for people to wear this product and where it gets too hot outside it sprays them with water to keep them hydrated and fresh.*
 
 <!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
 
