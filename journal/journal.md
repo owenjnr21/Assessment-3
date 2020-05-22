@@ -121,8 +121,13 @@
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
-### Image 1 ###
 ![Image](tempmicrobit.jpg)
+
+![Image](crocodileclip.jpg)
+
+![Image](motorboard.jpg)
+
+![Image](tempmotorboard.jpg)
 
 This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
 
