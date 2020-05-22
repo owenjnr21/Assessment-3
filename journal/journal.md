@@ -149,7 +149,7 @@ There will likely by a dozen or so images of the project under construction. The
 
 ## Project Video ##
 
-
+![Video](Finalproject.mp4)
 
 
 ## Design process discussion ##
